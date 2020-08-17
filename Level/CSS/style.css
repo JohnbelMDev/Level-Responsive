@@ -1,0 +1,461 @@
+
+
+* {
+  box-sizing: border-box;
+
+}
+
+
+header nav ul li,
+.middleSection,
+.middleChild,
+.bottomSection,
+.bottomSec,
+.Undernav,
+footer,
+.topbottomsec,
+footer nav ul li,
+.History,
+.section4,
+.Section3,.Section4,.Section4 ul li,.headerSection{
+  /* border: 1px solid black; */
+
+}
+
+
+
+header{
+  float:left;
+  clear: both;
+  width:100%;
+  height:360px;
+  color:white;
+  background-color:rgba(102, 118, 138);
+
+}
+
+
+/* a{
+text-decoration: none;
+color: white;
+} */
+header a {
+  text-decoration: none;
+  color: white;
+}
+.headerNav{
+  float: left;
+
+}
+.containerfloatbox,.containerbox12{
+  float:left;
+  width:50%;
+}
+
+.Voolun {
+  border: 2px solid gray;
+  width: 15%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  /* float: left; */
+  /* padding: 13px 6px 3px 2px; */
+  text-align: center;
+  /* margin: -22px 449px 3px 511px; */
+}
+.Voolun a{
+  color: black;
+}
+.black{
+  color: black;
+}
+.headerNavv{
+  float: right;
+  color: black;
+  border: 1px solid white;
+  background-color: white;
+  margin:3px 11px 2px 2px;
+  /* color: black; */
+
+}
+a{
+  text-decoration: none;
+}
+.border{
+  border:1px solid black;
+  color:black;
+  height:50px;
+  width:20%;
+}
+.headerSection{
+  width:53%;
+  height:180px;
+  margin:81px 507px 81px 315px;
+  text-align:center;
+  /* margin:32px 8px 69px 411px; */
+
+}
+
+.menu{
+  display: none;
+}
+
+.headerSection p{
+  padding-left: 9%;
+  padding-right: 9%;
+}
+header nav ul li{
+  float: left;
+  display: block;
+  width: 16%;
+  height: 88px;
+  margin: 14px 14px 5px 28px;
+}
+
+
+.middleSection{
+  float:left;
+  width:100%;
+  height:260px;
+  clear:both;
+}
+
+
+
+.bottomSection{
+  float:left;
+  width:100%;
+  /* height: 260px; */
+  clear: both;
+  overflow: auto;
+}
+
+
+
+.bottomSec{
+  width:33.3333%;
+  float:left;
+  /* height: 260px; */
+  clear: both;
+  overflow: auto;
+}
+.Section3{
+  /* background-color: lightgray; */
+  width:100%;
+  height:260px;
+  overflow: auto;
+}
+
+.sec2{
+
+  text-align: center;
+  height: 160px;
+  overflow: hidden;
+
+}
+.sec2 h2 p{
+  padding-left: 9%;
+  padding-right: 9%;
+}
+
+.Vollunteer{
+
+  text-align: center;
+  height: 160px;
+  overflow: hidden;
+
+}
+
+.Vollunteer h2 p{
+  padding-left: 9%;
+  padding-right: 9%;
+}
+
+
+.Section4{
+  background-color: lightgray;
+  width:100%;
+  height:563px;
+  overflow: hidden;
+}
+
+.box1,
+.box2{
+  /* float: left; */
+  display: block;
+  overflow: hidden;
+  margin-top: 59px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  height: 154px;
+  /* margin: 50px 6px 68px 210px; */
+  background-color:rgba(102, 118, 138);
+  border: 1px solid black;
+
+}
+
+
+.text1,
+.text2{
+  /* float: left; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* overflow: hidden; */
+  text-align:center;
+  width: 30%;
+  height:205px;
+  /* margin: -48px 6px 64px 208px; */
+  /* border: 1px solid black; */
+
+}
+
+.topbottomsec{
+  width: 100%;
+  background-color: lightgray;
+  text-align: center;
+  overflow: hidden;
+  float: right;
+  /* height: 300px; */
+}
+
+.History{
+  width: 100%;
+  text-align: center;
+  overflow: hidden;
+  float: right;
+}
+
+.section4{
+  width: 100%;
+  /* text-align: center; */
+  overflow: hidden;
+  float: left;
+}
+.Undernav{
+  overflow: hidden;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+  float: right;
+  /* height: 300px; */
+  background-size: contain;
+  clear: both;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  float: left;
+  background-position: 710px 5px
+
+}
+footer{
+  float:left;
+  clear:both;
+  width:100%;
+  background-color: rgb(22, 77, 102);
+  overflow: hidden;
+  height:409px;
+}
+
+
+.btNav li{
+  display: inline;
+}
+.butt1 li{
+  display: inline;
+}
+
+
+.left{
+  float: right;
+  color:white;
+  margin-top: -29px;
+  margin-right:38px;
+}
+.butt1,span{
+  color:white;
+}
+
+.lineBottom{
+  width: 90%;
+    height: 1px;
+    margin-bottom: 90px;
+    border: 1px solid white;
+    margin: 345px 0px 3px 75px;
+}
+.bTo{
+  margin-left: 75px;
+  color:white;
+}
+
+.footer-left{
+  float: left;
+  text-align: left;
+  width:40%;
+  margin-left: 16px;
+}
+
+.footer-left-buttons{
+  display: block;
+  width:100%;
+  margin-top: 14px;
+}
+.footer-left-buttons i{
+  margin-right:20px;
+  display: inline-block;
+  color:white;
+
+}
+.footer-left-header{
+  margin-top: 4px;
+  color:gray;
+}
+.footer-left-list{
+  display:block;
+  width:100%;
+  margin-top: 14px;
+}
+.footer-left-list h5{
+  display:inline-block;
+  color: white;
+}
+
+
+.footer-right{
+  float: right;
+  text-align: left;
+  width:20%;
+}
+
+.footer-right{
+  color:white;
+}
+
+
+
+
+
+/* tablet */
+@media only screen and (min-width:540px) and (max-width:769px){ /*insert responsive css here*/
+  *{
+    margin: 0;
+  }
+
+
+  .menu{
+    display: contents;
+    float: left;
+  }
+  .headerSection p{
+    display: none;
+  }
+  a{
+    display: none;
+  }
+  nav{
+    display: none;
+  }
+
+  header nav ul .ChildofUl{
+    float: left;
+    display: none;
+
+  }
+  /* footer{
+    display: none;
+  } */
+  .Section4{
+    display:none;
+  }
+  .Voolun{
+    display: none;
+  }
+  .headerSection {
+    width: 33%;
+    float: left;
+    /* height: 180px; */
+    margin: 81px 507px 76px 211px;
+    text-align: center;
+  }
+
+
+}
+
+/* mobile */
+@media only screen and (max-width:530px){
+  *{
+    margin: 0;
+  }
+  .Section4{
+    display: none;
+  }
+
+
+  a,ul{
+    display: none;
+  }
+  .menu{
+    display: contents;
+    float: left;
+
+  }
+
+
+  header nav ul .ChildofUl{
+    float: left;
+    display: none;
+
+  }
+
+
+  .Voolun{
+    display: none;
+  }
+  .headerSection {
+    width: 59%;
+    height: 180px;
+    margin: 81px 506px 76px 103px;
+    text-align: center;
+  }
+
+
+
+}
+
+/*********************  ****************************/
+
+/* media queries for desktop */
+
+/* desktop meda queries */
+@media only screen and (min-width:769px)
+and (max-width: 1248px)
+{
+
+
+  /* .Section4{
+    display:none;
+  } */
+
+  /* header nav ul .ChildofUl{
+    float: left;
+    display: none;
+
+  } */
+  .headerSection {
+    width: 42%;
+    height: 180px;
+    margin: 78px 505px 80px 295px;
+    text-align: center;
+  }
+
+  .fa-bars {
+    font-weight: 900;
+    font-size: 2rem;
+    color: black;
+    float: right;
+    display: inline;
+    margin: 0% 3% 1% 31%;
+  }
+
+
+}
