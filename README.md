@@ -16,7 +16,7 @@ Develop a fully responsive wesbite for mobile, tablet, desktop.
 
 ![Alt Text](https://github.com/JohnbelMDev/Level-Responsive/blob/master/Level%20Mobile.png)
 
-2. Used a media query from 540px to 769px for table
+2. Used a media query from 540px to 769px for tablet
 
 ![Alt Text](https://github.com/JohnbelMDev/Level-Responsive/blob/master/Level%20Table.png)
   
